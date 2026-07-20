@@ -94,7 +94,7 @@ export default tseslint.config(
       ],
 
       // Higiene general
-      "no-console": ["warn", { allow: ["warn", "error"] }],
+      "no-console": ["error", { allow: ["error"] }],
       "eqeqeq": ["error", "smart"],
       "prefer-const": "error",
       "no-else-return": "error",
