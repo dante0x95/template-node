@@ -34,7 +34,7 @@ Este repositorio es un **GitHub Template**. Pulsa **"Use this template"** para c
 
 ## Requisitos
 
-- **Node 24 o superior.** La versión exacta vive en `.node-version`. Con un version manager (`fnm`, `nvm`, `volta`) basta con entrar a la carpeta para que use la correcta.
+- **Node 24.** La versión exacta vive en `.node-version`. Con un version manager (`fnm`, `nvm`, `volta`) basta con entrar a la carpeta para que use la correcta.
 
 ```bash
 node --version   # debe empezar por v24
