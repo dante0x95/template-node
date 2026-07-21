@@ -6,7 +6,7 @@ Este repositorio es un **GitHub Template**. Pulsa **"Use this template"** para c
 
 ![Node](https://img.shields.io/badge/node-%3E%3D24-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue)
-![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+![CI](https://github.com/dante0x95/template-node/actions/workflows/ci.yml/badge.svg)
 
 > Los badges con `<owner>/<repo>` (como el de CI real) se actualizan en el **paso 2** de "Cómo usar este template".
 
