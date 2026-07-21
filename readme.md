@@ -1,14 +1,10 @@
 # template-node
 
-> Template base para proyectos backend en **Node + TypeScript** con buenas prácticas listas desde el primer commit.
-
 Este repositorio es un **GitHub Template**. Pulsa **"Use this template"** para crear un proyecto nuevo con toda la infraestructura ya montada: TypeScript estricto, ESLint como formateador único, validación de entorno, git hooks, releases automáticas y CI.
 
 ![Node](https://img.shields.io/badge/node-%3E%3D24-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue)
 ![CI](https://github.com/dante0x95/template-node/actions/workflows/ci.yml/badge.svg)
-
-> Los badges con `<owner>/<repo>` (como el de CI real) se actualizan en el **paso 2** de "Cómo usar este template".
 
 ---
 
